@@ -1,0 +1,6 @@
+{
+  "name": "Junta Comunal de Pueblo Nuevo — Atención Ciudadana",
+  "description": "Portal web de atención ciudadana y panel operativo de la Junta Comunal de Pueblo Nuevo, Panamá.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

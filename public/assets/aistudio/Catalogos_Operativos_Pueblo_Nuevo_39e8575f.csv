@@ -1,0 +1,73 @@
+﻿tipo,nombre,celdas_hoja_LISTAS,revision
+institucion,IDAAN,A1,
+institucion,AAUD,A2,
+institucion,ATTT,A3,
+institucion,JCPN,A4,
+institucion,JUEZ DE PAZ,A5,
+institucion,MOP,A6,
+institucion,MUNICIPIO,A7,
+institucion,MI AMBIENTE,A8,
+institucion,MINSA,A9,
+institucion,NATURGY,A10,
+institucion,ENSA,A11,
+institucion,PANDEPORTES,A12,
+institucion,SANEAMIENTO,A13,
+institucion,MEDUCA,A14,
+estado_original,Resuelto,C26,
+estado_original,Pendiente,C27,
+estado_original,En proceso,C28,
+estado_original,Sugerencia,C29,Confirmar si corresponde a un tipo de solicitud
+estado_original,Reporte,C30,Confirmar significado operativo
+estado_original,Inspección,C31,Confirmar equivalencia en el flujo de la app
+canal,Llamada,D30,
+canal,WhatsApp,D31,
+canal,Instagram,D32,
+canal,Recepción,D33,
+categoria,Recolección de basura,H1,
+categoria,Tapa de medidor,H2,Revisar posible coincidencia con Tapas medidor agua
+categoria,Aguas residuales,H3,
+categoria,Fuga de agua,H4,
+categoria,Interrupción del servicio,H5,Revisar relación con Falta de agua
+categoria,Autos mal estacionados,H6 · H21,
+categoria,Aceras,H7,Revisar relación con Reparación aceras
+categoria,Limpieza,H8,
+categoria,Poda - Trébol,H9,
+categoria,Fumigación,H10,
+categoria,Recolección de enseres,H11,
+categoria,Tapas medidor agua,H12,Revisar posible coincidencia con Tapa de medidor
+categoria,Tragantes,H13,Revisar relación con Limpieza tragante
+categoria,Estación canina,H14,
+categoria,Estación de lectura,H15,
+categoria,Parques,H16,
+categoria,Bienestar animal,H17 · H27,
+categoria,Bienestar social,H18,
+categoria,Medio ambiente,H19,
+categoria,Mantenimiento,H20,
+categoria,Señalización,H22,
+categoria,Plagas,H23,
+categoria,Situación vecinal,H24,
+categoria,Certificado de R,H25,Confirmar nombre completo
+categoria,Construcción,H26,
+categoria,Tubería rota,H28,
+categoria,Calles en mal estado,H29,Revisar relación con Hueco
+categoria,Tapas de alcantarilla,H30,
+categoria,Limpieza tragante,H31,Revisar relación con Tragantes
+categoria,Resalto,H32,
+categoria,Quebrada infectada,H33,
+categoria,Árbol en propiedad privada,H34,
+categoria,Inspección,H35,
+categoria,Árbol en mal estado,H36,
+categoria,Gestión inadecuada en vía pública,H37,
+categoria,Letrero ilegal,H38,
+categoria,Lote baldío,H39,
+categoria,Exceso de ruido,H40,
+categoria,Autos abandonados,H41,
+categoria,Falta de agua,H42,Revisar relación con Interrupción del servicio
+categoria,Congestión vial,H43,
+categoria,Falta de luz,H44,
+categoria,Reparación aceras,H45,Revisar relación con Aceras
+categoria,Legal y justicia,H46,
+categoria,Desagües tapados,H47,
+categoria,Otros,H48,
+categoria,Hueco,H49,Revisar relación con Calles en mal estado
+categoria,Incumplimiento sanitario,H50,
